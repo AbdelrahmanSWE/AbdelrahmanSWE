@@ -21,7 +21,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdelrahmanswe&" alt="abdelrahmanswe" /></p>
 
-<img align="Center" size="120%" src="https://www.codewars.com/users/AbduCodeWars/badges/large" alt="My problem solving status">
+<img align="Center" width="120%" height="120%" src="https://www.codewars.com/users/AbduCodeWars/badges/large" alt="My problem solving status">
 
 
 
